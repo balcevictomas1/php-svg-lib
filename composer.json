@@ -1,5 +1,5 @@
 {
-  "name": "dompdf/php-svg-lib",
+  "name": "balcevictomas1/php-svg-lib",
   "type": "library",
   "description": "A library to read, parse and export to PDF SVG files.",
   "homepage": "https://github.com/dompdf/php-svg-lib",
